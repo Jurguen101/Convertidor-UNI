@@ -20,6 +20,8 @@ Máxima Calidad: Fuerza la unión de las mejores pistas de video y audio disponi
 
 Ideal para estudiantes, docentes y profesionales que necesitan gestionar y respaldar recursos multimedia de forma rápida y sin complicaciones.
 
+---
+
 🇺🇸 English
 
 Engineering Personal Download Converter
@@ -38,6 +40,8 @@ Real-Time Monitoring: Features an accurate progress bar that reads the live data
 Maximum Quality: Forces the merging of the best available video and audio tracks from the servers.
 
 Ideal for students, teachers, and professionals who need to manage and back up multimedia resources quickly and hassle-free.
+
+---
 
 🇪🇸 Guía de Instalación y Uso
 📥 Cómo descargar e "instalar"
@@ -64,6 +68,8 @@ Haz clic en el botón verde "⬇️ INICIAR DESCARGA".
 Se abrirá una ventana de tu sistema. Elige la carpeta donde quieres que se guarde el archivo final.
 
 ¡Listo! Relájate y observa la barra de progreso en tiempo real. La interfaz te avisará con un mensaje verde cuando tu archivo esté listo.
+
+---
 
 🇺🇸 Installation and Usage Guide
 📥 How to download and "install"
